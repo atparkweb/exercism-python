@@ -1,7 +1,16 @@
-[2022-05-27 Fri]
-* TODO Guido's Gogeous Lasagna [5/5]
+* DONE Guido's Gogeous Lasagna [5/5]
 :LOGBOOK:
+CLOSED: [2022-05-29 Sun 16:55]
 CLOCK: [2022-05-27 Fri 11:50]--[2022-05-27 Fri 12:05] =>  0:15
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2022-05-29 Sun 16:56]
+| Headline                      | Time   |
+|-------------------------------+--------|
+| *Total time*                  | *0:15* |
+|-------------------------------+--------|
+| Guido's Gogeous Lasagna [5/5] | 0:15   |
+#+END:
+
 :END:
 - [X] define the 'EXPECTED_BAKE_TIME' constant
 - [X] consider defining the 'PREPARATION_TIME' constant
