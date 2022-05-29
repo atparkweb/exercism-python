@@ -1,5 +1,5 @@
 [2022-05-27 Fri]
-* TODO Guido's Gogeous Lasagna [4/5]
+* TODO Guido's Gogeous Lasagna [5/5]
 :LOGBOOK:
 CLOCK: [2022-05-27 Fri 11:50]--[2022-05-27 Fri 12:05] =>  0:15
 :END:
@@ -9,4 +9,4 @@ CLOCK: [2022-05-27 Fri 11:50]--[2022-05-27 Fri 12:05] =>  0:15
 - [X] define the 'bake_time_remaining()' function
 - [X] define the 'preparation_time_in_minutes()' function and consider
   using 'PREPARATION_TIME' here
-- [ ] define the 'elapsed_time_in_minutes()' function
+- [X] define the 'elapsed_time_in_minutes()' function
