@@ -36,13 +36,14 @@ def get_value_of_bills(denomination, number_of_bills):
 
 def get_number_of_bills(budget, denomination):
     """
+    Calculate number of bills
 
     :param budget: float - the amount of money you are planning to exchange.
     :param denomination: int - the value of a single bill.
     :return: int - number of bills after exchanging all your money.
     """
 
-    pass
+    return budget // denomination
 
 
 def exchangeable_value(budget, exchange_rate, spread, denomination):

@@ -1,5 +1,6 @@
-* TODO Currency Exchange [3/6]
+* TODO Currency Exchange [4/6]
 :LOGBOOK:
+CLOCK: [2022-05-30 Mon 22:20]
 CLOCK: [2022-05-30 Mon 22:08]--[2022-05-30 Mon 22:13] =>  0:05
 CLOCK: [2022-05-30 Mon 21:50]--[2022-05-30 Mon 22:02] =>  0:12
 :END:
@@ -7,6 +8,6 @@ CLOCK: [2022-05-30 Mon 21:50]--[2022-05-30 Mon 22:02] =>  0:12
 - [X] Estimate value after exchange
 - [X] Calculate currency left after an exchange
 - [X] Calculate value of bills
-- [ ] Calculate number of bills
+- [X] Calculate number of bills
 - [ ] Calculate value after exchange
 - [ ] Calculate non-exchangeable value
