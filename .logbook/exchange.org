@@ -1,0 +1,10 @@
+* TODO Currency Exchange [1/6]
+:LOGBOOK:
+CLOCK: [2022-05-30 Mon 21:50]
+:END:
+- [X] Estimate value after exchange
+- [ ] Calculate currency left after an exchange
+- [ ] Calculate value of bills
+- [ ] Calculate number of bills
+- [ ] Calculate value after exchange
+- [ ] Calculate non-exchangeable value
