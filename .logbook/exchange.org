@@ -1,16 +1,18 @@
-* TODO Currency Exchange [5/6]
+* DONE Currency Exchange [6/6]
 :LOGBOOK:
+CLOSED: [2022-06-01 Wed 11:54]
+CLOCK: [2022-06-01 Wed 11:40]--[2022-06-01 Wed 11:54] =>  0:14
 CLOCK: [2022-05-31 Tue 22:05]--[2022-05-31 Tue 22:20] =>  0:15
 CLOCK: [2022-05-30 Mon 22:20]--[2022-05-30 Mon 22:39] =>  0:19
 CLOCK: [2022-05-30 Mon 22:08]--[2022-05-30 Mon 22:13] =>  0:05
 CLOCK: [2022-05-30 Mon 21:50]--[2022-05-30 Mon 22:02] =>  0:12
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2022-06-01 Wed 11:12]
+#+CAPTION: Clock summary at [2022-06-01 Wed 11:54]
 | Headline                | Time   |
 |-------------------------+--------|
-| *Total time*            | *0:51* |
+| *Total time*            | *1:05* |
 |-------------------------+--------|
-| Currency Exchange [5/6] | 0:51   |
+| Currency Exchange [6/6] | 1:05   |
 #+END:
 :END:
 
@@ -19,4 +21,4 @@ CLOCK: [2022-05-30 Mon 21:50]--[2022-05-30 Mon 22:02] =>  0:12
 - [X] Calculate value of bills
 - [X] Calculate number of bills
 - [X] Calculate value after exchange
-- [ ] Calculate non-exchangeable value
+- [X] Calculate non-exchangeable value
