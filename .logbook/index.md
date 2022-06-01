@@ -1,5 +1,9 @@
 # Logbook Index
 
 ## Exercises
-- [Guido's Gorgeous Lasagna](./lasagna.org)
-- [Currency Exchange](./exchange.org)
+- [Guido's Gorgeous Lasagna](https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna)
+  - [Log](./lasagna.org)
+- [Currency Exchange](https://exercism.org/tracks/python/exercises/currency-exchange)
+  - [Log](./exchange.org)
+- [Grains](https://exercism.org/tracks/python/exercises/grains)
+  - [Log](./grains.org)
