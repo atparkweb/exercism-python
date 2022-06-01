@@ -1,4 +1,4 @@
-def exchange_money(budget, exchange_rate):
+def exchange_money(budget: float, exchange_rate: float):
     """
     Estimate value after exchange
 
@@ -10,7 +10,7 @@ def exchange_money(budget, exchange_rate):
     return budget / exchange_rate
 
 
-def get_change(budget, exchanging_value):
+def get_change(budget: float, exchanging_value: int):
     """
     Calculate currency left after an exchange
 
@@ -22,7 +22,7 @@ def get_change(budget, exchanging_value):
     return budget - exchanging_value
 
 
-def get_value_of_bills(denomination, number_of_bills):
+def get_value_of_bills(denomination: int, number_of_bills: int):
     """
     Calculate value of bills
 
@@ -34,7 +34,7 @@ def get_value_of_bills(denomination, number_of_bills):
     return int(denomination * number_of_bills)
 
 
-def get_number_of_bills(budget, denomination):
+def get_number_of_bills(budget: float, denomination: int):
     """
     Calculate number of bills
 
@@ -46,8 +46,9 @@ def get_number_of_bills(budget, denomination):
     return budget // denomination
 
 
-def exchangeable_value(budget, exchange_rate, spread, denomination):
+def exchangeable_value(budget: float, exchange_rate: float, spread: int, denomination: int):
     """
+    Calculate value after exchange
 
     :param budget: float - the amount of your money you are planning to exchange.
     :param exchange_rate: float - the unit value of the foreign currency.
@@ -56,7 +57,10 @@ def exchangeable_value(budget, exchange_rate, spread, denomination):
     :return: int - maximum value you can get.
     """
 
-    pass
+    # Calculate the spread rate
+    spread_rate = exchange_rate + (exchange_rate * spread / 100)
+    amount = budget / spread_rate
+    return amount // denomination * denomination
 
 
 def non_exchangeable_value(budget, exchange_rate, spread, denomination):
