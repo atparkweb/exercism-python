@@ -1,1 +1,9 @@
-* TODO: Grains [/]
+* TODO: Grains [2/3]
+:LOGBOOK:
+CLOCK: [2022-06-03 Fri 21:43]--[2022-06-03 Fri 21:49] =>  0:06
+CLOCK: [2022-06-03 Fri 11:49]--[2022-06-03 Fri 11:53] =>  0:04
+:END:
+
+- [X] Implement a function that gets number of grains on a square
+- [X] Implement a function that gets total number of grains
+- [ ] Optimize for performance
