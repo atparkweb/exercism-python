@@ -10,4 +10,8 @@ def square(number):
 
 
 def total():
-    pass
+    squares = range(1, 64)
+    sum = 0
+    for n in squares:
+        sum += square(n)
+
