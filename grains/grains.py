@@ -8,7 +8,10 @@ def square(number):
 
 
 def total():
-    squares = range(1, 64)
-    sum = 0
-    for n in squares:
-        sum += square(n)
+    result = 0
+
+    squares = range(1, 65)
+    for value in squares:
+        result += square(value)
+
+    return result
