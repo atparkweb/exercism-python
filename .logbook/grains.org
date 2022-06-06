@@ -1,7 +1,17 @@
-* TODO: Grains [2/3]
+* TODO Grains [2/3]
 :LOGBOOK:
+CLOSED: [2022-06-07 Tue 00:07]
+CLOCK: [2022-06-06 Mon 23:50]--[2022-06-07 Tue 00:06] =>  0:16
 CLOCK: [2022-06-03 Fri 21:43]--[2022-06-03 Fri 21:49] =>  0:06
 CLOCK: [2022-06-03 Fri 11:49]--[2022-06-03 Fri 11:53] =>  0:04
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2022-06-07 Tue 00:07]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:26* |
+|--------------+--------|
+| Grains [2/3] | 0:26   |
+#+END:
 :END:
 
 - [X] Implement a function that gets number of grains on a square
