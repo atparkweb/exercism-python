@@ -1,19 +1,20 @@
-* TODO Grains [2/3]
+* DONE Grains [3/3]
 :LOGBOOK:
-CLOSED: [2022-06-07 Tue 00:07]
+CLOSED: [2022-10-11 Tue 11:27]
+CLOCK: [2022-10-11 Tue 11:09]--[2022-10-11 Tue 11:14] =>  0:05
 CLOCK: [2022-06-06 Mon 23:50]--[2022-06-07 Tue 00:06] =>  0:16
 CLOCK: [2022-06-03 Fri 21:43]--[2022-06-03 Fri 21:49] =>  0:06
 CLOCK: [2022-06-03 Fri 11:49]--[2022-06-03 Fri 11:53] =>  0:04
+:END:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2022-06-07 Tue 00:07]
+#+CAPTION: Clock summary at [2022-10-11 Tue 11:28]
 | Headline     | Time   |
 |--------------+--------|
-| *Total time* | *0:26* |
+| *Total time* | *0:31* |
 |--------------+--------|
-| Grains [2/3] | 0:26   |
+| Grains [3/3] | 0:31   |
 #+END:
-:END:
 
 - [X] Implement a function that gets number of grains on a square
 - [X] Implement a function that gets total number of grains
-- [ ] Optimize for performance
+- [X] Optimize for performance

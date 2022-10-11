@@ -6,6 +6,7 @@ CLOCK: [2022-05-31 Tue 22:05]--[2022-05-31 Tue 22:20] =>  0:15
 CLOCK: [2022-05-30 Mon 22:20]--[2022-05-30 Mon 22:39] =>  0:19
 CLOCK: [2022-05-30 Mon 22:08]--[2022-05-30 Mon 22:13] =>  0:05
 CLOCK: [2022-05-30 Mon 21:50]--[2022-05-30 Mon 22:02] =>  0:12
+:END:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
 #+CAPTION: Clock summary at [2022-06-01 Wed 11:54]
 | Headline                | Time   |
@@ -14,7 +15,6 @@ CLOCK: [2022-05-30 Mon 21:50]--[2022-05-30 Mon 22:02] =>  0:12
 |-------------------------+--------|
 | Currency Exchange [6/6] | 1:05   |
 #+END:
-:END:
 
 - [X] Estimate value after exchange
 - [X] Calculate currency left after an exchange

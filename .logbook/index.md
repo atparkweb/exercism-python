@@ -7,3 +7,5 @@
   - [Log](./exchange.org)
 - [Grains](https://exercism.org/tracks/python/exercises/grains)
   - [Log](./grains.org)
+- [Ghost Gobble Arcade Game](https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game)
+  - [Log](./ghost-gobble.org)
